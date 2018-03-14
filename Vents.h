@@ -1,7 +1,7 @@
 /* ************* HEADER FILES DECLARATION ************* */
 
-#include<windows.h>
 
+#include<iostream>
 
 using namespace std;
 
