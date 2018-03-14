@@ -1,0 +1,6 @@
+# Enable C++ support
+language: cpp
+
+# Compiler selection
+compiler:
+  - gcc
